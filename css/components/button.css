@@ -1,0 +1,29 @@
+.btn-airbnb {
+  text-decoration: none;
+  background-color: #FF5B60;
+  padding: 8px 24px;
+  color: white;
+  border-radius: 4px;
+  transition: 0.3s;
+}
+
+.btn-airbnb:hover {
+  background-color: #FF5B60;
+}
+
+
+.btn-medium {
+  text-decoration: none;
+  background-color: transparent;
+  color: #0EAA7E;
+  padding: 8px 24px;
+  border: 1px solid #0EAA7E;
+  border-radius: 4px;
+}
+
+.btn-medium:hover {
+  color: #0e926d;
+}
+
+
+/*copy/paste the CSS from the website >> CodePen >> Find some cool feature*/
